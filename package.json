@@ -1,0 +1,11 @@
+{
+  "name": "preentrega1-rudas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "compile": "sass --watch scss:css"
+  },
+  "author": "",
+  "license": "ISC"
+}
